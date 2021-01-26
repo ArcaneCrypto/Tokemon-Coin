@@ -1,4 +1,4 @@
-Tokemon is an X11 PoW and PoS Hybrid Cryptocurrency
+Tokemon Coin is an X11 PoW and PoS Hybrid Cryptocurrency
 Ticker: TKM
 
 Port	56000
